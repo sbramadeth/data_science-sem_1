@@ -28,15 +28,8 @@ This repository contains coursework, notes, and projects from **Semester 1** of 
 - Analysis of time-dependent data.
 - Topics: ARIMA, forecasting, seasonal patterns.
 
-## Repository Structure
+## 🗂 Repository Structure
 
-sem_1/
-├── DATA9009_Data_Science_and_Analytics/
-├── STAT8010_R_for_Data_Science/
-├── COMP8060_Python_Programming/
-├── DATA9008_Practical_Data_Management/
-├── STAT9012_Statistics_and_Probability/
-└── STAT9005_Time_Series_Analysis/
 
 
 **Each module contains:**
@@ -45,15 +38,7 @@ sem_1/
 - `assignments/` — coursework
 - `notes/` — study notes
 
-## Technologies
-Python (Pandas, NumPy, Matplotlib)
-
-R (tidyverse, ggplot2)
-
-SQL (SQLite/MySQL)
-
-Jupyter Notebooks
-
+##  🛠 Technologies
 
 ## 📊 Quick Stats
 **Total Credits:** 30 ECTS  
