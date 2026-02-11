@@ -57,7 +57,7 @@ Jupyter Notebooks
 **Semester:** 1
 
 ---
-*Repository created Feb 2026 | 📧 [your-email@example.com]*
+*Repository created Feb 2026 | 📧 R00277282@mymtu.ie*
 
 
 
